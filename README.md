@@ -75,7 +75,7 @@
 
       Useful for assessing patient engagement & doctor performance patterns.
 
-  🔹 Financial Insights – Billing vs Insurance
+   🔹 Financial Insights – Billing vs Insurance
 
       Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
 
