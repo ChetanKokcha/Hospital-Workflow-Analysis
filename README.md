@@ -35,7 +35,7 @@
    
      🔹 1. Patient Journey Overview
 
-        Time slicer for analyzing performance across different periods.
+        > Time slicer for analyzing performance across different periods.
 
      🔹 2. Bed Occupancy Analysis
 
