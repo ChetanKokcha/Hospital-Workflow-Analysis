@@ -33,79 +33,79 @@
 
 5. Key Features / Dashboard Highlights
    
-  🔹 1. Patient Journey Overview
+     🔹 1. Patient Journey Overview
 
-Time slicer for analyzing performance across different periods.
+   Time slicer for analyzing performance across different periods.
 
-  🔹 2. Bed Occupancy Analysis
+     🔹 2. Bed Occupancy Analysis
 
-   Insights across 3 Ward Types:
+      Insights across 3 Ward Types:
 
-   Ward Type	Occupancy
+      Ward Type	Occupancy
 
-   Private	~3,500 beds
+      Private	~3,500 beds
 
-   General	~2,300 beds
+      General	~2,300 beds
 
-   ICU	~1,000 beds
+      ICU	~1,000 beds
 
-Shows which ward category has the highest patient load.
+    Shows which ward category has the highest patient load.
 
-  🔹 3. Diagnosis Type Distribution
+     🔹 3. Diagnosis Type Distribution
 
-   Most common diagnoses include:
+     Most common diagnoses include:
 
-   Viral Infection (Highest – 100%)
+     Viral Infection (Highest – 100%)
 
-   Flu
+     Flu
 
-   Malaria – 1.43K patients
+     Malaria – 1.43K patients
 
-   Typhoid – 1.15K patients
+     Typhoid – 1.15K patients
 
-   Pneumonia – 0.57K patients
+     Pneumonia – 0.57K patients
 
-   Fracture – 0.29K patients
+     Fracture – 0.29K patients
 
-   Helpful for identifying seasonal disease patterns and resource requirements.
+     Helpful for identifying seasonal disease patterns and resource requirements.
 
-🔹 4. Doctor Feedback Volume
+    🔹 4. Doctor Feedback Volume
 
-   Visual donut chart showing equal feedback volume (1.02K each) for doctors:
+     Visual donut chart showing equal feedback volume (1.02K each) for doctors:
 
-   Useful for assessing patient engagement & doctor performance patterns.
+     Useful for assessing patient engagement & doctor performance patterns.
 
-🔹 5. Financial Insights – Billing vs Insurance
+   🔹 5. Financial Insights – Billing vs Insurance
 
-    Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
+     Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
 
-    Shows how much of the billed amount is covered by insurance.
+     Shows how much of the billed amount is covered by insurance.
 
 6. Useful Insights
 
-  🔹 Viral infections and flu are the most common diagnoses
+    🔹 Viral infections and flu are the most common diagnoses
 
-  🔹 Private wards have the highest bed occupancy
+    🔹 Private wards have the highest bed occupancy
 
-  🔹 Total billing amount is ₹190.43M, indicating high patient load
+    🔹 Total billing amount is ₹190.43M, indicating high patient load
 
-  🔹 Insurance coverage closely follows billing amounts → indicates effective claim processing
+    🔹 Insurance coverage closely follows billing amounts → indicates effective claim processing
 
-  🔹 Doctor feedback volume distribution shows consistent patient engagement across doctors
+    🔹 Doctor feedback volume distribution shows consistent patient engagement across doctors
 
-  🔹 Fracture and Pneumonia have significantly lower patient counts compared to other conditions
+    🔹 Fracture and Pneumonia have significantly lower patient counts compared to other conditions
 
 7. What I Learned
 
-  🔹 Designing a healthcare-focused Power BI dashboard
+    🔹 Designing a healthcare-focused Power BI dashboard
 
-  🔹 Creating KPI cards, donut charts, bar charts, and financial comparison visuals
+    🔹 Creating KPI cards, donut charts, bar charts, and financial comparison visuals
 
-  🔹 Building interactive slicers for date-range analysis
+    🔹 Building interactive slicers for date-range analysis
 
-  🔹 Improving UX through color themes, icons, and layout
+    🔹 Improving UX through color themes, icons, and layout
 
-  🔹 Understanding hospital workflows and operational metrics
+    🔹 Understanding hospital workflows and operational metrics
 
 8. Screenshots
    
