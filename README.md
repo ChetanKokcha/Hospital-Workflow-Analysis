@@ -39,35 +39,35 @@
 
    🔹 Bed Occupancy Analysis
 
-      Insights across 3 Ward Types:
+       Insights across 3 Ward Types:
 
-      Ward Type	Occupancy
+       Ward Type	Occupancy
 
-      Private	~3,500 beds
+       Private	~3,500 beds
 
-      General	~2,300 beds
+       General	~2,300 beds
 
-      ICU	~1,000 beds
+       ICU	~1,000 beds
 
-      Shows which ward category has the highest patient load.
+       Shows which ward category has the highest patient load.
 
-   🔹 Diagnosis Type Distribution
+    🔹 Diagnosis Type Distribution
 
-      Most common diagnoses include:
+       Most common diagnoses include:
 
-      Viral Infection (Highest – 100%)
+       Viral Infection (Highest – 100%)
 
-      Flu
+       Flu
 
-      Malaria – 1.43K patients
+       Malaria – 1.43K patients
 
-      Typhoid – 1.15K patients
+       Typhoid – 1.15K patients
 
-      Pneumonia – 0.57K patients
+       Pneumonia – 0.57K patients
 
-      Fracture – 0.29K patients
+       Fracture – 0.29K patients
 
-      Helpful for identifying seasonal disease patterns and resource requirements.
+       Helpful for identifying seasonal disease patterns and resource requirements.
 
    🔹 Doctor Feedback Volume
 
@@ -77,9 +77,9 @@
 
   🔹 Financial Insights – Billing vs Insurance
 
-   Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
+      Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
 
-   Shows how much of the billed amount is covered by insurance.
+      Shows how much of the billed amount is covered by insurance.
 
 6. Useful Insights
 
