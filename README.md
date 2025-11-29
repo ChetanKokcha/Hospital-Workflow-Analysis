@@ -33,11 +33,11 @@
 
 5. Key Features / Dashboard Highlights
    
-     🔹 1. Patient Journey Overview
+   🔹 Patient Journey Overview
 
       Time slicer for analyzing performance across different periods.
 
-     🔹 2. Bed Occupancy Analysis
+   🔹 Bed Occupancy Analysis
 
       Insights across 3 Ward Types:
 
@@ -51,7 +51,7 @@
 
       Shows which ward category has the highest patient load.
 
-     🔹 3. Diagnosis Type Distribution
+   🔹 Diagnosis Type Distribution
 
       Most common diagnoses include:
 
@@ -69,17 +69,17 @@
 
       Helpful for identifying seasonal disease patterns and resource requirements.
 
-    🔹 4. Doctor Feedback Volume
+   🔹 Doctor Feedback Volume
 
       Visual donut chart showing equal feedback volume (1.02K each) for doctors:
 
       Useful for assessing patient engagement & doctor performance patterns.
 
-   🔹 5. Financial Insights – Billing vs Insurance
+  🔹 Financial Insights – Billing vs Insurance
 
-      Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
+   Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
 
-      Shows how much of the billed amount is covered by insurance.
+   Shows how much of the billed amount is covered by insurance.
 
 6. Useful Insights
 
