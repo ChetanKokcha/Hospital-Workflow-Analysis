@@ -35,51 +35,51 @@
    
      🔹 1. Patient Journey Overview
 
-        > Time slicer for analyzing performance across different periods.
+      Time slicer for analyzing performance across different periods.
 
      🔹 2. Bed Occupancy Analysis
 
-        Insights across 3 Ward Types:
+      Insights across 3 Ward Types:
 
-        Ward Type	Occupancy
+      Ward Type	Occupancy
 
-        Private	~3,500 beds
+      Private	~3,500 beds
 
-        General	~2,300 beds
+      General	~2,300 beds
 
-       ICU	~1,000 beds
+      ICU	~1,000 beds
 
-       Shows which ward category has the highest patient load.
+      Shows which ward category has the highest patient load.
 
      🔹 3. Diagnosis Type Distribution
 
-       Most common diagnoses include:
+      Most common diagnoses include:
 
-       Viral Infection (Highest – 100%)
+      Viral Infection (Highest – 100%)
 
-       Flu
+      Flu
 
-       Malaria – 1.43K patients
+      Malaria – 1.43K patients
 
-       Typhoid – 1.15K patients
+      Typhoid – 1.15K patients
 
-       Pneumonia – 0.57K patients
+      Pneumonia – 0.57K patients
 
-       Fracture – 0.29K patients
+      Fracture – 0.29K patients
 
-       Helpful for identifying seasonal disease patterns and resource requirements.
+      Helpful for identifying seasonal disease patterns and resource requirements.
 
     🔹 4. Doctor Feedback Volume
 
-       Visual donut chart showing equal feedback volume (1.02K each) for doctors:
+      Visual donut chart showing equal feedback volume (1.02K each) for doctors:
 
-       Useful for assessing patient engagement & doctor performance patterns.
+      Useful for assessing patient engagement & doctor performance patterns.
 
    🔹 5. Financial Insights – Billing vs Insurance
 
-       Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
+      Comparison across major diagnosis categories:Diagnosis	Billing	Insurance
 
-       Shows how much of the billed amount is covered by insurance.
+      Shows how much of the billed amount is covered by insurance.
 
 6. Useful Insights
 
