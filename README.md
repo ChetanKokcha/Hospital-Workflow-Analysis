@@ -8,23 +8,23 @@
 
 2. Purpose of the Project
 
-  🔹 To understand trends in admissions, discharges, follow-ups, and billing amounts
+     🔹 To understand trends in admissions, discharges, follow-ups, and billing amounts
 
-  🔹 To analyze bed occupancy across Private, General, and ICU wards
+     🔹 To analyze bed occupancy across Private, General, and ICU wards
 
-  🔹 To track patient diagnoses and identify the most common medical conditions
+     🔹 To track patient diagnoses and identify the most common medical conditions
 
-  🔹 To compare billing amount vs health insurance claim amount for financial insights
+     🔹 To compare billing amount vs health insurance claim amount for financial insights
 
-  🔹 To enhance decision-making for hospital management using data-driven insights
+     🔹 To enhance decision-making for hospital management using data-driven insights
 
 3. Tech Stack
 
-  🔹 Power BI Desktop
+     🔹 Power BI Desktop
 
-  🔹 Power Query for data cleaning & ETL
+     🔹 Power Query for data cleaning & ETL
 
-  🔹 Excel / CSV files as source data
+     🔹 Excel / CSV files as source data
 
 4. Data Source
 
